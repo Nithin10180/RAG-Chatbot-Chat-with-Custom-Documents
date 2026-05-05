@@ -1,4 +1,4 @@
-🤖 Chat with your own PDF documents using AI — 100% local, no API key, zero cost.
+Chat with your own PDF documents using AI — 100% local, no API key, zero cost.
 # RAG Chatbot — Chat with Your Documents
 
 > Ask questions to your own PDF files using AI. Runs fully offline. No API key. No cost.
