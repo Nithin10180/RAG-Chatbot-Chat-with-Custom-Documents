@@ -1,0 +1,4 @@
+ollama
+chromadb
+sentence-transformers
+pdfplumber
