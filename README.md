@@ -10,9 +10,6 @@ Chat with your own PDF documents using AI — 100% local, no API key, zero cost.
 
 ---
 
-## Demo
-
-![Demo Screenshot](screenshots/demo.png)
 
 ---
 
