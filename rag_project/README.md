@@ -1,4 +1,5 @@
 # RAG Chatbot — Chat with Your Documents
+
 > Ask questions to your own PDF files using AI. Runs fully offline. No API key. No cost.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
@@ -77,8 +78,8 @@ Get accurate answer grounded in your document
 
 **Step 1 — Clone the repository**
 ```bash
-git clone https://github.com/yourusername/rag-chatbot.git
-cd rag-chatbot
+git clone https://github.com/Nithin10180/RAG-Chatbot-Chat-with-Custom-Documents.git
+cd RAG-Chatbot-Chat-with-Custom-Documents
 ```
 
 **Step 2 — Install Python libraries**
@@ -181,9 +182,9 @@ OLLAMA_MODEL = "gemma:2b" # very lightweight
 
 ## Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your linkedin](https://linkedin.com/in/yourprofile)
+**Nithin**
+- GitHub: [@Nithin10180](https://github.com/Nithin10180)
+- Repository: [RAG-Chatbot-Chat-with-Custom-Documents](https://github.com/Nithin10180/RAG-Chatbot-Chat-with-Custom-Documents)
 
 ---
 
